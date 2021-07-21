@@ -5,7 +5,7 @@ import streamlit as st
 import altair as alt
 import plotly.express as px
 
-st.set_page_config(page_title="Dashboard | Telecom User Data Analysis ", layout="wide")
+st.set_page_config(page_title="Dashboard | Ad campaign performance Testing using A/B Hypothesis Testing", layout="wide")
 
 def loadData():
     pd.set_option('max_column', None)
