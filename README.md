@@ -7,9 +7,11 @@
 - The main objective of this project is to test if the ads that the advertising company runs resulted in a significant lift in brand "Lux" awareness. 
 
 ### Hypothesis of this Analysis:
-#### 1. Null Hypothesis(Ho) -> "There is no difference in brand awareness between the exposed and control groups in the current case"
+#### 1. Null Hypothesis(Ho):  
+- There is no difference in brand awareness between the exposed and control groups in the current case
 
-#### 2. Alternate Hypothesis(Ha) -> "There is difference in brand awareness between the exposed and control groups in the current case"
+#### 2. Alternate Hypothesis(Ha):
+- There is difference in brand awareness between the exposed and control groups in the current case
 
 
 ### Variables for our A/B Testing Analysis:
