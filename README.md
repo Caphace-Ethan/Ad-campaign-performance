@@ -24,6 +24,6 @@
 
 ### 1.2.2 Performing hypothesis testing: applying the classical p-value based algorithm and the  sequential A/B testing algorithm
 
-### The Analysis is done in a Jupyter Notebook file named "Sequential_AB_Testing_Analysis.ipynb", in "notebook" folder
+### The Analysis is done in a Jupyter Notebook file named "AB_Testing_Analysis_Classical_&_Sequential.ipynb", in "notebook" folder
 
 
